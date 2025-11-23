@@ -4,3 +4,5 @@ chapters:
   - file: lecture_16_example
   - file: "project1/project1"
     title: "Project 1: AOTY Analysis"
+  - file: "project2/project2"
+    title: "Project 2: Spotify Popularity vs AOTY"
